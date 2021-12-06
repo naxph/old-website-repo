@@ -1,0 +1,29 @@
+footer {
+  background-color: #eee;
+  padding: 25px;
+  margin-top: 100px;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 15px;
+}
+
+.bootstrap-logo {
+  width: 300px;
+  height: 80px;
+}
+
+.page-title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 100px;
+}
+
+.credits-item {
+  margin-left: 100px;
+  margin-right: 100px;
+}

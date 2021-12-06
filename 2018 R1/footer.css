@@ -1,0 +1,62 @@
+footer {
+  margin-top: 100px;
+  background-color: #2a2a2c;
+  margin-bottom: 0px;
+  padding: 25px;
+}
+
+.footer {
+  background-color: #2a2a2c;
+}
+
+.footer-headline {
+  font-family: 'Montserrat' ,sans-serif;
+  font-weight: 700;
+  color: white;
+  padding-top: 45px;
+}
+
+.footer-text {
+  color: white;
+  font-family: 'Montserrat' ,sans-serif;
+}
+
+.footer-divider {
+  border-color: white;
+  margin-top: 35px;
+}
+
+ul {
+  list-style: none;
+  margin-right: 40px;
+}
+
+li {
+  padding: 20px;
+  display: inline;
+}
+
+.social-icon {
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+
+li a {
+  text-decoration: none!important;
+  transition: 0.3s;
+}
+
+.social-icon:hover {
+  color: #808080;
+}
+
+@media screen and (max-width: 992px) {
+  li {
+    padding: 10px;
+  }
+
+  .social-icon {
+    font-size: 30px;
+  }
+}

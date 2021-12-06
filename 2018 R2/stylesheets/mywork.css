@@ -1,0 +1,16 @@
+body {
+    background-color: #fff200;
+}
+
+h1 {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.error-text {
+    margin-top: 10%;
+}
+
+.error-img {
+    width: 450px;
+    height: 400px;
+}

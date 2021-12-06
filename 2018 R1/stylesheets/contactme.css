@@ -1,0 +1,26 @@
+footer {
+  background-color: #eee;
+  padding: 25px;
+  margin-top: 0px!important;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 15px;
+}
+
+.bootstrap-logo {
+  width: 300px;
+  height: 80px;
+}
+
+.homepage-link {
+  font-family: 'Cutive Mono', monospace;
+}
+
+.homepage-link:hover {
+  text-decoration: underline;
+}

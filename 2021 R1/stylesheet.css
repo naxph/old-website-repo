@@ -1,0 +1,95 @@
+.square1 {
+    background: #56CCF2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    width: 100px;
+    height: 100px;
+    padding-top: 100px;
+}
+
+.square2 {
+    background: #59C173;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 120px;
+    height: 120px;
+
+    transform: rotate(20deg);
+}
+
+.square3 {
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 60px;
+    height: 60px;
+
+} 
+
+.square4 {
+    background: #20002c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 80px;
+    height: 80px;
+
+}
+
+.squaresContainer {
+    margin-left: 25px;
+}
+
+.projects-container {
+    background: #03001e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin-top: 10%;
+}
+
+.construction-text {
+    padding-top: 500px;
+    padding-bottom: 500px;
+}
+
+.services-header {
+    color: white;
+
+
+}
+
+.master-services-div {
+
+}
+
+.section1 {
+    display: inline-block;
+        padding-left: 15%;
+}
+
+.section2 {
+    display: inline-block;
+    padding-left: 30%;
+    padding-top: 6%;
+    
+}
+
+.section3 {
+    display: inline-block;
+    padding-left: 1%
+}
+
+.section4 {
+    display: inline-block;
+    padding-left: 1%;
+    padding-right: 3%
+}
+
+.services-item {
+   display: block;
+   font-family: 'averta_demoregular', sans-serif;
+}
+
+.services-type {
+ color: white;
+}
+

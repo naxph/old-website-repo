@@ -1,0 +1,58 @@
+footer {
+  background-color: #eee;
+  padding: 25px;
+  margin-top: 0px!important;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.list {
+  margin-top: 15px;
+}
+
+body {
+  background: url("/assets/profile_pic.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.profile-body {
+  background-color: white;
+  margin-top: 400px;
+  padding-bottom: 25px;
+}
+
+.profile-header {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin-left: 100px;
+  padding-top: 75px;
+}
+
+.profile-info {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.skill-item {
+  display: block;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.skills {
+  margin-left: 37px;
+}
+
+.contact-button {
+  border-radius: 0px!important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 100px;;
+}
